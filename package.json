@@ -1,0 +1,28 @@
+{
+  "name": "sw-boilerplate",
+  "version": "0.0.1",
+  "description": "A service worker boilerplate for 80% use cases",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sam-ngu/sw-boilerplate.git"
+  },
+  "keywords": [
+    "service-worker"
+  ],
+  "author": "sam-ngu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sam-ngu/sw-boilerplate/issues"
+  },
+  "homepage": "https://github.com/sam-ngu/sw-boilerplate#readme",
+  "dependencies": {
+    "workbox-webpack-plugin": "^5.1.3"
+  },
+  "devDependencies": {
+    "laravel-mix": "^5.0.4"
+  }
+}
